@@ -8,8 +8,11 @@
 
 
 
-- [Site Pessoal](https://bit.ly/3a559ky/"Title")
-- [Página Inicial Instagram - Responsiva](https://bit.ly/2NI4IFn/"Title")
+- [Site Pessoal](https://github.com/ana-viana/site-pessoal/"Title")
+
+- [Página Inicial Instagram - Responsiva](https://github.com/ana-viana/pagina_instagram/"Title")
+
+  
 
 
 
