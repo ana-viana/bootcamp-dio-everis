@@ -8,13 +8,11 @@
 
 
 
-- [Site Pessoal](https://github.com/ana-viana/site-pessoal/"Title")
+- [Site Pessoal](https://github.com/ana-viana/site-pessoal/)
 
-- [Página Inicial Instagram - Responsiva](https://github.com/ana-viana/pagina_instagram/"Title")
+- [Página Inicial Instagram - Responsiva](https://github.com/ana-viana/pagina_instagram/)
 
   
-
-
 
 
 
