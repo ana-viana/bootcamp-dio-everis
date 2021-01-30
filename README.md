@@ -12,6 +12,12 @@
 
 - [Página Inicial Instagram - Responsiva](https://github.com/ana-viana/pagina_instagram/)
 
+- [Recriação Página Inicial Netflix](https://github.com/ana-viana/pagina_netflix)
+
+- 
+
+- 
+
   
 
 
@@ -24,11 +30,20 @@
 - Git e GitHub;
 - HTML Semântico;
 - CSS;
+  - Media Queries;
+  - Flexbox;
 - Arquitetura de Softwares:
   - SOAP;
   - REST;
   - IoT;
+  
+
+- JavaScript:
+  - jQuery (ow-Carousel)
+
+
 
 
 
 #bootcamp-dio-everis
+
