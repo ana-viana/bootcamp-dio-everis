@@ -37,8 +37,7 @@
   - REST;
   - IoT;
   
-
-- JavaScript:
+- JavaScript ES6:
   - jQuery (ow-Carousel)
 
 
